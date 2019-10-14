@@ -1,5 +1,5 @@
 def plus_two(num)
 	num + 2
-	num = 3 + 2
-	binding.pry
+	num = 3 
+	sum = 5
 end
